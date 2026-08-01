@@ -5,6 +5,6 @@ Build/
 *.suo
 .vs/
 .idea/
-Client/References/
+Client/References/*.dll
 *.zip
 .DS_Store
