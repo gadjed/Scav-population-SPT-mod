@@ -1,0 +1,10 @@
+bin/
+obj/
+Build/
+*.user
+*.suo
+.vs/
+.idea/
+Client/References/
+*.zip
+.DS_Store

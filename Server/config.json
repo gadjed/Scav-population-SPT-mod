@@ -1,0 +1,22 @@
+{
+  "Enabled": true,
+  "Debug": false,
+  "StartAfterSeconds": 180,
+  "ReinforcementIntervalSeconds": 180,
+  "ScavEnabled": true,
+  "ScavSlotsMin": 2,
+  "ScavSlotsMax": 4,
+  "ScavWavesPerInterval": 2,
+  "ScavDifficulty": "normal",
+  "PmcEnabled": true,
+  "PmcSquadMinSize": 1,
+  "PmcSquadMaxSize": 4,
+  "PmcSquadsPerInterval": 1,
+  "PmcDifficulty": "normal",
+  "ExtendBotStop": true,
+  "SkipMaps": [
+    "laboratory",
+    "labyrinth",
+    "hideout"
+  ]
+}
