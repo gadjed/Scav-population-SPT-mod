@@ -2,6 +2,9 @@
 
 **SPT 4.0.13 Compatible**
 
+
+> **Superseded for Questing Bots users:** continuous scav/PMC population is now built into [Questing Bots Continuous](https://github.com/gadjed/QuestingBots-Continuous-SPT-mod). Do not run both mods together.
+
 Keeps raids populated after the early wave dump: continuous scav reinforcements, PMC squads (1–4), and optional AFK-bot relocation closer to the player.
 
 Developed and tested against **SPT 4.0.13**.
